@@ -1,0 +1,169 @@
+{
+    "dept": [
+      {
+        "id": 1,
+        "name": "Mathematics"
+      },
+      {
+        "id": 2,
+        "name": "Mechanical"
+      },
+      {
+        "id": 3,
+        "name": "Computer science"
+      },
+      {
+        "id": 4,
+        "name": "Information technology"
+      }
+    ],
+    "deg_prog": [
+      {
+        "id": 1,
+        "deg_name": "msc_it"
+      },
+      {
+        "id": 2,
+        "deg_name": "msc_cs"
+      },
+      {
+        "id": 3,
+        "deg_name": "msc_em"
+      }
+    ],
+    "semester": [
+        {
+          "sem_id": 1,
+          "sem_num": 1,
+          "req_year": 2022,
+          "sem": "odd",
+          "deg_name": "msc_it"
+        },
+        {
+          "sem_id": 2,
+          "sem_num": 2,
+          "req_year": 2022,
+          "sem": "even",
+          "deg_name": "msc_it"
+        },
+        {
+          "sem_id": 3,
+          "sem_num": 3,
+          "req_year": 2022,
+          "sem": "odd",
+          "deg_name": "msc_it"
+        },
+        {
+          "sem_id": 4,
+          "sem_num": 4,
+          "req_year": 2019,
+          "sem": "even",
+          "deg_name": "msc_it"
+        },
+        {
+          "sem_id": 5,
+          "sem_num": 1,
+          "req_year": 2022,
+          "sem": "odd",
+          "deg_name": "msc_cs"
+        },
+        {
+          "sem_id": 6,
+          "sem_num": 2,
+          "req_year": 2022,
+          "sem": "even",
+          "deg_name": "msc_cs"
+        },
+        {
+          "sem_id": 7,
+          "sem_num": 3,
+          "req_year": 2022,
+          "sem": "odd",
+          "deg_name": "msc_cs"
+        },
+        {
+          "sem_id": 8,
+          "sem_num": 4,
+          "req_year": 2019,
+          "sem": "even",
+          "deg_name": "msc_cs"
+        },
+        {
+          "sem_id": 9,
+          "sem_num": 1,
+          "req_year": 2019,
+          "sem": "odd",
+          "deg_name": "msc_em"
+        },
+        {
+          "sem_id": 10,
+          "sem_num": 2,
+          "req_year": 2022,
+          "sem": "even",
+          "deg_name": "msc_em"
+        }
+      ],
+      "batch": [
+        {
+          "bat_id": 1,
+          "sem_id": 1,
+          "sem_num": 1,
+          "name": "A"
+        },
+        {
+          "bat_id": 2,
+          "sem_id": 1,
+          "sem_num": 1,
+          "name": "B"
+        },
+        {
+          "bat_id": 3,
+          "sem_id": 2,
+          "sem_num": 2,
+          "name": "A"
+        },
+        {
+          "bat_id": 4,
+          "sem_id": 2,
+          "sem_num": 2,
+          "name": "B"
+        },
+        {
+          "bat_id": 5,
+          "sem_id": 6,
+          "sem_num": 1,
+          "name": "A"
+        },
+        {
+          "bat_id": 6,
+          "sem_id": 6,
+          "sem_num": 1,
+          "name": "B"
+        },
+        {
+          "bat_id": 7,
+          "sem_id": 7,
+          "sem_num": 2,
+          "name": "A"
+        },
+        {
+          "bat_id": 8,
+          "sem_id": 7,
+          "sem_num": 2,
+          "name": "B"
+        },
+        {
+          "bat_id": 9,
+          "sem_id": 10,
+          "sem_num": 1,
+          "name": "A"
+        },
+        {
+          "bat_id": 10,
+          "sem_id": 10,
+          "sem_num": 1,
+          "name": "B"
+        }
+      ]
+    
+  }
